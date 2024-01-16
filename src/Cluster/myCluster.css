@@ -1,0 +1,78 @@
+/*
+
+.myMethod {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #484a4d;
+    height: 50px;
+    padding: 0 1rem;
+    color: beige;
+}
+
+.Mytext {
+    width: 100%;
+    color: beige;
+}
+
+.mydes {
+    text-align: left;
+    padding: 0 1rem;
+}
+
+.mydes h1 {
+    color: darkgoldenrod;
+}
+
+.navigate {
+    display: flex;
+    height: 100%;
+    padding: 0 0.5rem;
+    align-items: center;
+}
+
+.specificNav a {
+    padding: 0 0.5rem;
+    align-items: center;
+}
+
+
+.Thereturn {
+    color: lightgreen;
+    
+}
+
+.specificNav a:hover,
+.specificNav a:active {
+    color: darkgoldenrod;
+}
+
+.specificNav ul {
+    list-style: none;
+    display: flex;
+    padding: 0%;
+}
+
+
+
+
+.mywelcome { 
+    border-radius: 80px;
+    background-color: #f2f2f2;
+    padding: 2000px;
+  
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 40px;
+    box-sizing: border-box;
+    margin-top: 60px;
+    margin-bottom: 16px;
+    padding: 0 1rem;
+    resize: vertical;
+}
+
+*/
+.welcome {
+    padding: 0 1.25rem;
+}

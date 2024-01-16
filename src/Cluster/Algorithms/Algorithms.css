@@ -1,0 +1,115 @@
+
+.welcome  {
+    text-align: left;
+    padding: 0 1.25rem;
+}
+
+/*.welcome h1 {
+    color: MediumBlue;
+}
+*/
+.welcome h3 {
+    color: darkgoldenrod;
+}
+
+
+.mybutton {
+    background-color: #474a4d;
+    width: 150px;
+	height: 37px;
+    align-items: center;
+    cursor: pointer;
+    color: beige;
+    font: inherit;
+    margin: 10px;
+}
+
+.myinput {
+    width: 800px;
+    height: 200px;
+    padding: 5px;
+    font: inherit;
+    margin-bottom: 10px;
+}
+
+.myforms {
+    width: 800px;
+    height: 200px;
+    padding: 40px;
+    font: inherit;
+    margin-bottom: 10px;
+}
+
+
+.myinput:focus {
+    outline: none;
+    background-color: beige;
+}
+
+.myword {
+    cursor: pointer;
+}
+
+.mytext{
+    padding: 0 2rem;
+}
+
+.trainForms {
+    width: 1100px;
+    padding: 5px;
+    height: 25px;
+    font: inherit;
+    margin-bottom: 10px;
+}
+
+.thedrop {
+    width: 1113px;
+    padding: 5px;
+    height: 40px;
+    font: inherit;
+    margin-bottom: 10px;
+}
+
+
+.trainForms:focus {
+    outline: none;
+    background-color: beige;
+}
+
+.thedrop:focus {
+    outline: none;
+    background-color: beige; 
+}
+
+.theForm {
+    padding-left: 30px;
+}
+
+.overlay {
+    position: 'fixed';
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-Color: 'rgba(0,0,0,.7)';
+    z-Index: 1000;
+}
+
+.content{
+    position: 'absolute';
+    padding: '50px';
+    top: '50%';
+    left: '50%';
+    right: 'auto';
+    bottom: 'auto';
+    margin-right: '-50%';
+    transform: 'translate(-50%, -50%)';
+    z-index: 1000;
+    background-Color: "rgb(20,20,20)";
+}
+
+.mysize {
+    font-size: xx-large;    
+}
+/*style my progressBar*/
+
